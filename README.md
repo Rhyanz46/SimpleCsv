@@ -1,3 +1,8 @@
+Installation :
+```
+go get github.com/Rhyanz46/SimpleCsv
+```
+
 Example :
 
 - Create new data
