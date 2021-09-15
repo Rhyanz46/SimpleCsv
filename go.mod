@@ -1,3 +1,3 @@
-module github.com/Rhyanz46/simpleCsv
+module github.com/Rhyanz46/SimpleCsv
 
 go 1.17
