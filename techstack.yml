@@ -1,0 +1,32 @@
+repo_name: Rhyanz46/SimpleCsv
+report_id: 9345ec1d092a622be4a20a88639b5857
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-17T03:02:55+00:00'
+requested_by: Rhyanz46
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/Rhyanz46/SimpleCsv
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Rhyanz46/SimpleCsv
+  detection_source: Repo Metadata
